@@ -1,0 +1,2 @@
+# WonderfulWeatherWidget
+JavaScript project, XMLHttpRequest
